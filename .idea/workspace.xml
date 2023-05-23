@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46c6ccb0-e57b-44c7-a705-04da93e255b5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Build/WebGLRawDebug.loader.js" beforeDir="false" afterPath="$PROJECT_DIR$/Build/WebGLRawDebug.loader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/WebGLRawDebug.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/WebGLRawDebug.framework.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/WebGLRawDebug.loader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Build/WebGLRawDebug.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -83,5 +89,16 @@
       <updated>1684821785723</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
